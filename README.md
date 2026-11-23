@@ -36,6 +36,23 @@ WebAudio. Everything in it is its own: the city, the people, the story, the sign
   pause, a HUD with health, money, weapon, speed and district, and a live minimap with
   police blips and the gold objective marker. Your progress saves itself in the browser.
 
+## What's in the city
+
+Five districts, five tempers. **Centro Coral** is the bright middle — the **Palms
+Mall**, **Banco Coral**, **Mercado Sol** and the **Café Brisa**, with the
+**Comisaría Coral** near enough to hear trouble. The west side is **Barrio Brisa**,
+all sidewalks and shade, home to **Clínica Brisa** for the morning after. North,
+the ground climbs through **La Colina** to **Altos del Faro**, past the **Librería
+Faro** and **Gimnasio Ola** up to the **Hotel Faro** and the lighthouse itself.
+The south belongs to the **Mercado Viejo** district and, beyond it, **Puerto
+Coral**, which works for a living — the **Almacén Puerto** warehouses, cranes over
+the water, and the **Bar El Ancla** for whoever is still standing. And the whole
+east shore is **Playa Serena**: sand running down to the **Mar Serena**, the
+**Hotel Coralia** and **Club Neptuno** arguing over who owns the night, with
+**Radio Neptuno** scoring all of it. In the middle of everything sits **Parque
+Palma** and its fountain — and somewhere among the pastel roofs, **Taller Dario**,
+where every story in the bay begins.
+
 ## How to play
 
 | Keys | What they do |
@@ -68,6 +85,18 @@ vendored make.fun library:
 ```
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+## Controls
+
+Everything is keyboard and mouse, and the bay teaches it gently. **WASD** or the
+**arrow keys** walk you around and drive whatever you are sitting in; **Shift**
+sprints on foot. **E** is the city's universal verb — talk to Dario, climb into a
+parked car, pull a driver out of a moving one, move a conversation along — and
+**F** gets you back out of the car again. The **mouse** aims, and a **click**
+swings a fist or fires the pistol, once Dario trusts you with one; **1** and **2**
+swap between fists and pistol. **P** or **Esc** pauses. There is no map screen to
+open: the minimap rides on the HUD the whole time, police blips and gold marker
+included, so the bay never quite lets you get lost.
 
 ## Layout
 
