@@ -1,8 +1,8 @@
 # CORAL BAY — an open-world crime game
 
-[![Competition](https://make.fun/api/competitions/gta6-01/badge.svg)](https://make.fun/bounty/gta6-01)
-[![Rank](https://make.fun/api/competitions/gta6-01/Lowkeyzen/coral-bay-game/rank.svg)](https://make.fun/bounty/gta6-01)
-[![Reward](https://make.fun/api/competitions/gta6-01/Lowkeyzen/coral-bay-game/reward.svg)](https://make.fun/bounty/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Lowkeyzen/coral-bay-game/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Lowkeyzen/coral-bay-game/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 **Una bahía. Mil problemas.** Coral Bay is a sun-soaked little city on a bay that never
 quite sleeps: eight avenues of pastel roofs and neon signs, a park with a fountain, a
